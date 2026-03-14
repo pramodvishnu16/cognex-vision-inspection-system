@@ -1,4 +1,4 @@
-# Cognex Vision Inspection System — Label Verification and Defect Detection
+# Cognex Vision Inspection System - Label Verification and Defect Detection
 
 **Vision Platform:** Cognex In-Sight 7000 Series  
 **Integration:** EtherNet/IP with Allen Bradley Studio 5000  
